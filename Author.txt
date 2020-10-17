@@ -1,0 +1,1 @@
+Hi all , i'm Kavinkumar . I have learned how to setup a gradle project and some shortcuts in intellij today.
